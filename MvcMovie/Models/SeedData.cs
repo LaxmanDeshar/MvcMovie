@@ -22,7 +22,7 @@ public static class SeedData
             context.Movie.AddRange(
                 new Movie
                 {
-                    Title = "When Harry Met Sally",
+                    Title = "Titanic",
                     ReleaseDate = DateTime.Parse("1989-2-12"),
                     Genre = "Romantic Comedy",
                     Rating = "R",
@@ -30,18 +30,18 @@ public static class SeedData
                 },
                 new Movie
                 {
-                    Title = "Ghostbusters ",
+                    Title = "Breaking Bad",
                     ReleaseDate = DateTime.Parse("1984-3-13"),
-                    Genre = "Comedy",
+                    Genre = "Drama",
                     Rating = "R",
                     Price = 8.99M
 
                 },
                 new Movie
                 {
-                    Title = "Ghostbusters 2",
+                    Title = "Tomb Raider",
                     ReleaseDate = DateTime.Parse("1986-2-23"),
-                    Genre = "Comedy",
+                    Genre = "Action",
                     Rating = "R",
                     Price = 9.99M
                 },
