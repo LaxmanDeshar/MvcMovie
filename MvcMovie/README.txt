@@ -91,7 +91,7 @@ Dont't forget to remove all entries in the resulting vie before! - Rating shows 
 1325 - Part 9
 1328 - Added validation rules to the movie model
 1330 - Successfully run the code.
-1330 - 
+1330 - Wokerd Perfectly!!!
 
 1340 - Part 10
 1345 - examine the Details and Delete methods of an ASP.NET Core app
