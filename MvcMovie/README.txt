@@ -87,6 +87,8 @@ May 23, 2024, Additional Updates:
 Dont't forget to remove all entries in the resulting vie before! - Rating shows up
 
 
+20240523174509.
+
 2024/06/06
 
 1325 - Part 9
@@ -99,3 +101,5 @@ Dont't forget to remove all entries in the resulting vie before! - Rating shows 
 1348 - Opened the Movie controller and examine the Details method
 1349 - Ran into some problem and after examine the code i managed to solved it
 1350 - Successfully examine all and worked perfectly!
+
+
