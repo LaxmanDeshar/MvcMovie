@@ -52,7 +52,16 @@ public static class SeedData
                     Genre = "Western",
                     Rating = "R",
                     Price = 3.99M
-                }
+                },
+                 new Movie
+                 {
+                     Title = "NInja Turtle",
+                     ReleaseDate = DateTime.Parse("1959-4-15"),
+                     Genre = "Action",
+                     Rating = "S",
+                     Price = 3.99M
+                 }
+
             );
             context.SaveChanges();
         }
