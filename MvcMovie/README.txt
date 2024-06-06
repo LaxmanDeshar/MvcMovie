@@ -4,6 +4,8 @@ Student ID - 0848303
 
 5/16/2024
 
+UTC Time
+
 1400 - Part 1 & 2
 1428 - Controller Initialization
 1430 -Added the 'HelloWorld' controller and created the 'Welcome' method.
@@ -71,6 +73,8 @@ May 23, 2024, Additional Updates:
 
 2024/05/30
 
+UTC TIme
+
 1301 - Part 6
 1305 - Began to do controller methods and views in ASP.NET Core
 1315 - Process the post request
@@ -90,6 +94,8 @@ Dont't forget to remove all entries in the resulting vie before! - Rating shows 
 20240523174509.
 
 2024/06/06
+
+UTC Time
 
 1325 - Part 9
 1328 - Added validation rules to the movie model
