@@ -79,3 +79,16 @@ Completed the final checks and adjustments to fully integrate the seeded databas
 1322 - Updated app w/ new field, now need to re-seed data
 1324 - Done! ...now test
 Dont't forget to remove all entries in the resulting vie before! - Rating shows up
+
+
+2024/06/06
+
+1325 - Part 9
+1328 - Added validation rules to the movie model
+1330 - Successfully run the code.
+1330 - 
+
+1340 - Part 10
+1345 - examine the Details and Delete methods of an ASP.NET Core app
+1348 - Opened the Movie controller and examine the Details method
+1350 - Successfully examine all and worked perfectly!
